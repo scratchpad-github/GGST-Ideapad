@@ -54,8 +54,12 @@ This is a little scratchpad where I bundle up scraps of informations I gather ab
 # 카이
 어느 정도 감이 잡힐 때까지는 짤막한 콤보쪼가리만 올라올 예정  
 
+## 필드  
 `c.S 6H 214K`  
-`5P 5P 6P 214H`  
+`5P 5P 6P 214H` 
+## 벽 
+Wallbreak  
+`c.S 6H 214H - 5HS 214K f.S 623S` -> 214H 디어 에클라 가드백이지만 5H JIT 입력하면 히트임
 
 # 해야 하는 것
 
