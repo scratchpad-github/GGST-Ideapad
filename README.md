@@ -1,3 +1,7 @@
+본인이 이것에 뭔가 추가하고 싶다 ----> PR 날려주셈  
+보고 추가함  
+코멘트로 내가 님이 누군지 알 수 있도록 적어주셈 ㄳ
+
 # GGST-Ideapad  
 This is a little scratchpad where I bundle up scraps of informations I gather about how to play the damn game. Sue me.
 
