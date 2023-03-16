@@ -8,17 +8,17 @@ This is a little scratchpad where I bundle up scraps of informations I gather ab
 
 ### 국민콤보조합법
 * 시동  
-  `[ c.S 2HS | c.S 6HS | 2S 2HS | 2K2D | 5K2D ]`
-* 건지기: 6HS 시동은 거리에 따라 ㄹS로 건지지 못하는 편, 2S 2HS는 아직 잘 모르겠음  
-  `[ 2K | 5K | c.S | 2S 2HS ]`  
+  `[ c.S 2H | c.S 6H | 2S 2H | 2K2D | 5K2D ]`
+* 건지기: 6H 시동은 거리에 따라 ㄹS로 건지지 못하는 편, 2S 2H는 아직 잘 모르겠음  
+  `[ 2K | 5K | c.S | 2S 2H ]`  
 * 몸통: 바요네토 넉백은 즉시 벽꽝될듯, 높이에 따라서 알잘딱  
-  `[ 6HS | 214Px3 | 236HS 236S ]`  
+  `[ 6H | 214Px3 | 236H 236S ]`  
 * 벽꽝: 바요네토/칼바도스 알아서, 흡흡허는 고민 좀 필요할듯
 <hr>
 
 ### 잔도잔도야  
-* `c.S 2HS 623P ~dl c.s  214[66]P [TURNOVER] c.S 2HS 236S 214HS`  
-  흡캔 들어감. 흡흡허로 공콤 이어갈 수 있음. 가까우면 `c.S 2HS` 로 건져올릴 수 있음.
+* `c.S 2H 623P ~dl c.s  214[66]P [TURNOVER] c.S 2H 236S 214H`  
+  흡캔 들어감. 흡흡허로 공콤 이어갈 수 있음. 가까우면 `c.S 2H` 로 건져올릴 수 있음.
 
 <hr>
 
@@ -37,19 +37,25 @@ This is a little scratchpad where I bundle up scraps of informations I gather ab
 ### 도장가서깎아볼대공벽꽝콤보목록
 
 * j.S 공대공 시동  
-  `j.S 66 j.D 5K 6HS 236HS ~`
+  `j.S 66 j.D 5K 6H 236H ~`
   
 * j.K 공대공 시동  
-  `j.K j.K 5K 6HS 236HS ~`
+  `j.K j.K 5K 6H 236H ~`
   
 * 5P대공 시동  
-  `5P c.S 6HS 236HS ~`  
-  `5P c.S 2HS 236S ~`  
+  `5P c.S 6H 236H ~`  
+  `5P c.S 2H 236S ~`  
   
 * j.K 시동 이걸어케하노 콤보  
-  `j.K j.K 5K 6HS 623P 66RRC 66[존나비벼] c.S 2HS 236S ~`  
+  `j.K j.K 5K 6H 623P 66RRC 66[존나비벼] c.S 2H 236S ~`  
 * 어려운거(아마도), 623P PRC 214P 가 맞나  
-  `j.K j.K 5K 6HS 214P 214P dl 214P PRC c.S 2HS 236S ~`  
+  `j.K j.K 5K 6H 214P 214P dl 214P PRC c.S 2H 236S ~`  
+
+# 카이
+어느 정도 감이 잡힐 때까지는 짤막한 콤보쪼가리만 올라올 예정  
+
+`c.S 6H 214K`  
+`5P 5P 6P 214H`  
 
 # 해야 하는 것
 
